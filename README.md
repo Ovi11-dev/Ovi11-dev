@@ -1,19 +1,21 @@
-- 👋 Hola soy Ovi dev:)
+# hola, soy Ovi dev
 
-- 👀 estoy interesado en la programación frontend y un poco en el hacking ético 
+## Sobre mí :)
+Soy un desarrollador individual que le gusta HTML css y Javascript, y le gustaría especializarse en en Javascript.
 
-- 🌱 estoy aprendiendo Javascript y talvez aprenda otros lenguajes
-
-- 💞️ Colaboraré sólo para resolver ciertos problemas menores
-
-- 📫 También tengo un perfil en sololearn, mi User name: OviSv
-
-- 😄 soy nuevo por aquí
+### Habilidades
+- **Lenguajes de Programación**: HTML, css, Javascript
 
 
-- ⚡ Fun fact: hmmm... no sé qué poner
+| Habilidad    | Nivel     |
+|--------------|-----------|
+| JavaScript   | medio avanzado|
+| css          | Intermedio|
+| html         | intermedio|
 
-<!---
-Ovi11-dev/Ovi11-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### algo más?
+Gracias por leer mi descripción, Esto es todo Pero agregaré más cosas con el pasar del tiempo :)
+
+
+> "Siempre dispuesto a aprender y colaborar cómo pueda :) "
