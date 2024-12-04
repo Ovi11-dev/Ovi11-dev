@@ -4,14 +4,15 @@
 Soy un desarrollador individual que le gusta HTML css y Javascript, y le gustaría especializarse en en Javascript.
 
 ### Habilidades
-- **Lenguajes de Programación**: HTML, css, Javascript
+- **Lenguajes de Programación**: HTML, css, Javascript, bash
 
 
-| Habilidad    | Nivel     |
+| Habilidad    | experiencia  |
 |--------------|-----------|
-| JavaScript   | medio avanzado|
-| css          | Intermedio|
-| html         | intermedio|
+| JavaScript   |  mucha|
+| css          | media     |
+| html         | media mucha |
+| bash             |  poca     |
 
 
 ### algo más?
